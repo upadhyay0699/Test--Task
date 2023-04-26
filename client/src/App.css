@@ -1,0 +1,50 @@
+.wd-40{ width: 23%;
+  height: 30px;
+ 
+ }
+.App{width: 80%;margin: auto;padding: auto; }
+
+.mt-right{padding-right: 17px; font-size: 15px; 
+  font-weight: 500;}
+.mt-left{margin-left: 3%;;}
+.formdata{
+
+  margin: auto; margin-left: 10px; margin-right: 10px;}
+  .mt-righti11{margin-top: 31px;
+    font-size: 15px;
+    font-weight: 500;
+    padding-right: 6px;}
+  .wd-41{width: 30%; height: 30px;}
+  .wd-42{width: 24%; height: 30px;}
+  .wd-44{width: 24%; height: 30px;}
+  .gov{width: 50%;border: 2px solid red;}
+  .wd-45{width: 16%; height: 30px;}
+  .wd-51{width: 30%; height: 30px; }
+  .wd-43{height: 30px;width: 16%;}
+  .mt-rt{padding-left: 20px; margin-left: 20px;}
+  .mt-left1{margin-left: 10%; height: 30px;}
+  .wd-47{width: 19%; height: 30px;}
+  .wd-48{height: 30px;}
+  .wd-49{height: 30px;}
+  .pd-top{padding-top: 20px;}
+  .mt-righti12{ margin-left: 8%;font-size: 15px;font-weight: 500;padding-right: 10px;}
+  .mt-right10{margin-right: 20px; margin-left: 16px;  font-size: 15px;font-weight: 500;}
+  .mt-right3{font-weight: 500;font-size: 15px;margin-top: 20px; margin-right: 20px;}
+  .wd-46{height: 30px;width: 20%;margin-left: 10px;}
+  h3{margin-top: 20px; margin-bottom: 20px; font-weight: bold; font-size: larger; text-decoration: underline; margin-left: 10px; margin-right: 10px;}
+  .button{ float: right; margin-right: 50px;}
+  .boxshadow{  border:  2px solid gray; width: 95%; margin: auto; height: 600px; box-shadow: 5px 6px 5px 6px gray; margin-top: 10px;}
+  .cancel{border: 1px solid red; background-color: transparent; border-radius: 5px; margin-left: 35px; color: red;  height: 50px; font-weight: bold; }
+  .submit{background-color: green;color: white; border-radius: 2px; height: 50px; margin-left: 30px; border: none; font-weight: bold;  }
+  .boxborder{  width: 80%; border: 2px solid red; 
+    margin: auto;}
+  .required::after{
+    content: '* ';
+    color: red;
+    font-weight: bold;
+    font-size:20px;
+
+  }
+  .sub a{ color: white; text-decoration: none;}
+  .sub{background-color: green;color: white; border-radius: 2px; height: 50px; margin-left: 20px; border: none; box-shadow: rgba(92, 8, 228, 0.25) 0px 25px 50px -12px; font-weight: bold;}
+  
